@@ -8,7 +8,6 @@ To run it, open `index.html` in a browser. This public version does not save dat
 |---|---|
 | `index.html` | The full experiment (information sheet, consent, instructions and quiz, learning and test phases, post-task questions, debrief) |
 | `js/` | jsPsych 6, its plugins and jQuery |
-| `lib/` | jsPsych Pavlovia plugin (used for data collection, disabled here) |
 | `img/` | Bee stimuli and instruction images |
 
 Stimuli: Adapted from Rich & Gureckis (2018).
