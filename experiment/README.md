@@ -1,6 +1,6 @@
 # Honey Harvester task
 
-Experiment code for Antkiewicz, Hills et al., "[paper title]" ([journal, year]). The task is adapted from Rich & Gureckis (2018), building on the implementation of Li, Gureckis & Hayes (2021), and is written in jsPsych 6.
+Experiment code for Antkiewicz, Hills et al., "paper title" (journal, year). The task is adapted from Rich & Gureckis (2018), building on the implementation of Li, Gureckis & Hayes (2021), and is written in jsPsych 6.
 
 To run it, open `index.html` in a browser. This public version does not save data and has the Prolific completion code removed. To save a CSV, uncomment the `localSave` line in `index.html`.
 
@@ -11,5 +11,5 @@ To run it, open `index.html` in a browser. This public version does not save dat
 | `lib/` | jsPsych Pavlovia plugin (used for data collection, disabled here) |
 | `img/` | Bee stimuli and instruction images |
 
-Stimuli: [licence or source of the bee images].
-Licence: [e.g. MIT], see `LICENSE`.
+Stimuli: Adapted from Rich & Gureckis (2018).
+Licence:
